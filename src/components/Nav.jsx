@@ -9,7 +9,7 @@ const Nav = () => {
             <nav className="navbar navbar-expand-lg navbar-light">
               <a className="navbar-brand" href="/">
                 <img
-                  src="https://res.cloudinary.com/dl9j9ni2n/image/upload/v1745046745/elite_trust_sgaebh.jpg"
+                  src="https://res.cloudinary.com/dl9j9ni2n/image/upload/v1780080792/Firstbank_new_IMage_pa8grg.jpg"
                   className="logo"
                   alt="logo"
                 />
