@@ -12,6 +12,7 @@ const Nav = () => {
                   src="https://res.cloudinary.com/dl9j9ni2n/image/upload/v1780080792/Firstbank_new_IMage_pa8grg.jpg"
                   className="logo"
                   alt="logo"
+                  style={{height:"50px"}}
                 />
               </a>
               <button
