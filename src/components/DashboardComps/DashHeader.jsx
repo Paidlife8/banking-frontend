@@ -194,8 +194,9 @@ const DashHeader = () => {
                   <a href="/dashboard">
                     <img
                      
-                      src="https://res.cloudinary.com/dl9j9ni2n/image/upload/v1745046745/elite_trust_sgaebh.jpg"
+                      src="https://res.cloudinary.com/dl9j9ni2n/image/upload/v1780080792/Firstbank_new_IMage_pa8grg.jpg"
                       alt="logo"
+                      style={{height:"50px"}}
                     />
                   </a>
                 </div>
